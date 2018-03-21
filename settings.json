@@ -1,0 +1,7 @@
+{
+    "id": "orchestrator",
+    "filter": "devops",
+    "image": "https://github.com/PureStorage-OpenConnect/purestorage-openconnect.github.io/blob/master/images/packageicon.png",
+    "featured": 1,
+    "priority": 1
+}
