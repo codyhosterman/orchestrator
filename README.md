@@ -1,2 +1,0 @@
-# orchestrator
-vRealize Orchestrator
